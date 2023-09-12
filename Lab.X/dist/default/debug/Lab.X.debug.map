@@ -1,0 +1,673 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o)
+                              (vfprintf)
+c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+                              C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/ATmega_DFP/2.4.131/gcc/dev/atmega328p/avr5/crtatmega328p.o (exit)
+c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+                              build/default/debug/uart.o (__do_copy_data)
+c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+                              build/default/debug/lcd.o (__do_clear_bss)
+c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_prologue.o)
+                              c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o) (__prologue_saves__)
+c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_epilogue.o)
+                              c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o) (__epilogue_restores__)
+c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+                              c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o) (__ftoa_engine)
+c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                              c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o) (strnlen_P)
+c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                              c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o) (strnlen)
+c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(fprintf.o)
+                              build/default/debug/lcdtest.o (fprintf)
+c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+                              c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o) (fputc)
+c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(fwrite.o)
+                              build/default/debug/uart.o (fwrite)
+c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(iob.o)
+                              build/default/debug/uart.o (__iob)
+c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                              c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o) (__ultoa_invert)
+
+Allocating common symbols
+Common symbol       size              file
+
+__iob               0x6               c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(iob.o)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/ATmega_DFP/2.4.131/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .bss           0x0000000000000000        0x0 C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/ATmega_DFP/2.4.131/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .text          0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o)
+ .data          0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o)
+ .bss           0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o)
+ .text          0x0000000000000000        0x0 build/default/debug/lcd.o
+ .data          0x0000000000000000        0x0 build/default/debug/lcd.o
+ .bss           0x0000000000000000        0x0 build/default/debug/lcd.o
+ .text          0x0000000000000000        0x0 build/default/debug/uart.o
+ .data          0x0000000000000000        0x0 build/default/debug/uart.o
+ .bss           0x0000000000000000        0x0 build/default/debug/uart.o
+ .text.uart_init
+                0x0000000000000000        0xe build/default/debug/uart.o
+ .rodata.uart_putchar.str1.1
+                0x0000000000000000        0x8 build/default/debug/uart.o
+ .text.uart_putchar
+                0x0000000000000000       0x44 build/default/debug/uart.o
+ .text.uart_getchar
+                0x0000000000000000      0x246 build/default/debug/uart.o
+ .bss.b.1722    0x0000000000000000       0x50 build/default/debug/uart.o
+ .bss.rxp.1723  0x0000000000000000        0x2 build/default/debug/uart.o
+ .debug_info    0x0000000000000000      0x42d build/default/debug/uart.o
+ .debug_abbrev  0x0000000000000000      0x184 build/default/debug/uart.o
+ .debug_loc     0x0000000000000000      0x34d build/default/debug/uart.o
+ .debug_aranges
+                0x0000000000000000       0x30 build/default/debug/uart.o
+ .debug_ranges  0x0000000000000000       0x20 build/default/debug/uart.o
+ .debug_line    0x0000000000000000      0x2b2 build/default/debug/uart.o
+ .debug_str     0x0000000000000000      0x1e8 build/default/debug/uart.o
+ .comment       0x0000000000000000       0x31 build/default/debug/uart.o
+ .debug_frame   0x0000000000000000       0x98 build/default/debug/uart.o
+ .text          0x0000000000000000        0x0 build/default/debug/hd44780.o
+ .data          0x0000000000000000        0x0 build/default/debug/hd44780.o
+ .bss           0x0000000000000000        0x0 build/default/debug/hd44780.o
+ .text.hd44780_powerdown
+                0x0000000000000000        0xe build/default/debug/hd44780.o
+ .text          0x0000000000000000        0x0 build/default/debug/lcdtest.o
+ .data          0x0000000000000000        0x0 build/default/debug/lcdtest.o
+ .bss           0x0000000000000000        0x0 build/default/debug/lcdtest.o
+ .text          0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_prologue.o)
+ .data          0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_prologue.o)
+ .bss           0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_prologue.o)
+ .text          0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_epilogue.o)
+ .data          0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_epilogue.o)
+ .bss           0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_epilogue.o)
+ .text          0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+ .data          0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+ .bss           0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+ .text          0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .data          0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .bss           0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .text          0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .data          0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .bss           0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .text          0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(fprintf.o)
+ .data          0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(fprintf.o)
+ .bss           0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(fprintf.o)
+ .text          0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .data          0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .bss           0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .text          0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(fwrite.o)
+ .data          0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(fwrite.o)
+ .bss           0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(fwrite.o)
+ .text          0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(iob.o)
+ .data          0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(iob.o)
+ .bss           0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(iob.o)
+ .text          0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .data          0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .bss           0x0000000000000000        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000008000 xr
+data             0x0000000000800100 0x0000000000000800 rw !x
+eeprom           0x0000000000810000 0x0000000000000400 rw !x
+fuse             0x0000000000820000 0x0000000000000003 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/ATmega_DFP/2.4.131/gcc/dev/atmega328p/avr5/crtatmega328p.o
+LOAD c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libprintf_flt.a
+LOAD c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a
+LOAD build/default/debug/lcd.o
+LOAD build/default/debug/uart.o
+LOAD build/default/debug/hd44780.o
+LOAD build/default/debug/lcdtest.o
+                0x0000000000000001                __MPLAB_BUILD = 0x1
+                0x0000000000000001                __ICD2RAM = 0x1
+                0x0000000000000001                __MPLAB_DEBUG = 0x1
+                0x0000000000000001                __DEBUG = 0x1
+START GROUP
+LOAD c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a
+END GROUP
+START GROUP
+LOAD c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a
+LOAD c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a
+LOAD c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a
+LOAD C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/ATmega_DFP/2.4.131/gcc/dev/atmega328p/avr5\libatmega328p.a
+END GROUP
+                0x0000000000000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x0000000000800100]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x0000000000008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x0000000000000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x0000000000000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000      0xe68
+ *(.vectors)
+ .vectors       0x0000000000000000       0x68 C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/ATmega_DFP/2.4.131/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x0000000000000000                __vector_default
+                0x0000000000000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x0000000000000068                . = ALIGN (0x2)
+                0x0000000000000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000000000000068        0x0 linker stubs
+ *(.trampolines*)
+                0x0000000000000068                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ .progmem.data  0x0000000000000068        0x8 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o)
+ *libc.a:*(.progmem.data)
+ .progmem.data  0x0000000000000070       0xfa c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+ *(.progmem*)
+                0x000000000000016a                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000000000016a                __ctors_start = .
+ *(.ctors)
+                0x000000000000016a                __ctors_end = .
+                0x000000000000016a                __dtors_start = .
+ *(.dtors)
+                0x000000000000016a                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000000000016a        0x0 C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/ATmega_DFP/2.4.131/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x000000000000016a                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000000000016a        0xc C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/ATmega_DFP/2.4.131/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000000000000176       0x16 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+                0x0000000000000176                __do_copy_data
+ .init4         0x000000000000018c       0x10 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+                0x000000000000018c                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000000000019c        0x8 C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/ATmega_DFP/2.4.131/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x00000000000001a4        0x4 C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/ATmega_DFP/2.4.131/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000000000001a4                __vector_22
+                0x00000000000001a4                __vector_1
+                0x00000000000001a4                __vector_24
+                0x00000000000001a4                __vector_12
+                0x00000000000001a4                __bad_interrupt
+                0x00000000000001a4                __vector_6
+                0x00000000000001a4                __vector_3
+                0x00000000000001a4                __vector_23
+                0x00000000000001a4                __vector_25
+                0x00000000000001a4                __vector_11
+                0x00000000000001a4                __vector_13
+                0x00000000000001a4                __vector_17
+                0x00000000000001a4                __vector_19
+                0x00000000000001a4                __vector_7
+                0x00000000000001a4                __vector_5
+                0x00000000000001a4                __vector_4
+                0x00000000000001a4                __vector_9
+                0x00000000000001a4                __vector_2
+                0x00000000000001a4                __vector_21
+                0x00000000000001a4                __vector_15
+                0x00000000000001a4                __vector_8
+                0x00000000000001a4                __vector_14
+                0x00000000000001a4                __vector_10
+                0x00000000000001a4                __vector_16
+                0x00000000000001a4                __vector_18
+                0x00000000000001a4                __vector_20
+                0x00000000000001a8                . = ALIGN (0x2)
+ *(.text.*)
+ .text.avr-libc
+                0x00000000000001a8      0x6c2 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o)
+                0x00000000000001a8                vfprintf
+ .text.lcd_init
+                0x000000000000086a       0x30 build/default/debug/lcd.o
+                0x000000000000086a                lcd_init
+ .text.lcd_putchar
+                0x000000000000089a       0x4e build/default/debug/lcd.o
+                0x000000000000089a                lcd_putchar
+ .text.hd44780_outnibble
+                0x00000000000008e8       0x2c build/default/debug/hd44780.o
+ .text.hd44780_innibble
+                0x0000000000000914       0x2e build/default/debug/hd44780.o
+ .text.hd44780_outbyte
+                0x0000000000000942       0x20 build/default/debug/hd44780.o
+                0x0000000000000942                hd44780_outbyte
+ .text.hd44780_inbyte
+                0x0000000000000962       0x1e build/default/debug/hd44780.o
+                0x0000000000000962                hd44780_inbyte
+ .text.hd44780_wait_ready
+                0x0000000000000980        0xc build/default/debug/hd44780.o
+                0x0000000000000980                hd44780_wait_ready
+ .text.hd44780_init
+                0x000000000000098c       0x74 build/default/debug/hd44780.o
+                0x000000000000098c                hd44780_init
+ .text.main     0x0000000000000a00       0x7a build/default/debug/lcdtest.o
+                0x0000000000000a00                main
+ .text.libgcc.prologue
+                0x0000000000000a7a       0x38 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_prologue.o)
+                0x0000000000000a7a                __prologue_saves__
+ .text.libgcc.prologue
+                0x0000000000000ab2       0x36 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_epilogue.o)
+                0x0000000000000ab2                __epilogue_restores__
+ .text.avr-libc
+                0x0000000000000ae8      0x1b0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+                0x0000000000000ae8                __ftoa_engine
+ .text.avr-libc
+                0x0000000000000c98       0x16 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                0x0000000000000c98                strnlen_P
+ .text.avr-libc
+                0x0000000000000cae       0x16 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                0x0000000000000cae                strnlen
+ .text.avr-libc
+                0x0000000000000cc4       0x24 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(fprintf.o)
+                0x0000000000000cc4                fprintf
+ .text.avr-libc
+                0x0000000000000ce8       0x60 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+                0x0000000000000ce8                fputc
+ .text.avr-libc
+                0x0000000000000d48       0x60 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(fwrite.o)
+                0x0000000000000d48                fwrite
+ .text.avr-libc
+                0x0000000000000da8       0xbc c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                0x0000000000000da8                __ultoa_invert
+                0x0000000000000e64                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000000000000e64        0x0 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+                0x0000000000000e64                _exit
+                0x0000000000000e64                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000000000000e64        0x4 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000000000000e68                _etext = .
+
+.data           0x0000000000800100       0x30 load address 0x0000000000000e68
+                0x0000000000800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.lcd_str  0x0000000000800100        0xe build/default/debug/lcdtest.o
+                0x0000000000800100                lcd_str
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.main.str1.1
+                0x000000000080010e       0x21 build/default/debug/lcdtest.o
+ *(.gnu.linkonce.r*)
+                0x0000000000800130                . = ALIGN (0x2)
+ *fill*         0x000000000080012f        0x1 
+                0x0000000000800130                _edata = .
+                0x0000000000800130                PROVIDE (__data_end, .)
+
+.bss            0x0000000000800130        0x7
+                0x0000000000800130                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.esc_seen.1850
+                0x0000000000800130        0x1 build/default/debug/lcd.o
+ *(COMMON)
+ COMMON         0x0000000000800131        0x6 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(iob.o)
+                0x0000000000800131                __iob
+                0x0000000000800137                PROVIDE (__bss_end, .)
+                0x0000000000000e68                __data_load_start = LOADADDR (.data)
+                0x0000000000000e98                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000800137        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x0000000000800137                _end = .
+                [!provide]                        PROVIDE (__heap_start, .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x5c
+ *(.comment)
+ .comment       0x0000000000000000       0x2c c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o)
+                                         0x2d (size before relaxing)
+ .comment       0x000000000000002c       0x30 build/default/debug/lcd.o
+                                         0x31 (size before relaxing)
+ .comment       0x000000000000005c       0x31 build/default/debug/hd44780.o
+ .comment       0x000000000000005c       0x31 build/default/debug/lcdtest.o
+ .comment       0x000000000000005c       0x31 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(fprintf.o)
+ .comment       0x000000000000005c       0x31 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .comment       0x000000000000005c       0x31 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(fwrite.o)
+ .comment       0x000000000000005c       0x31 c:/users/moaz/desktop/ece 312 lab/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64 (1)/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a(iob.o)
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40 C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/ATmega_DFP/2.4.131/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000       0x98
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x28 build/default/debug/lcd.o
+ .debug_aranges
+                0x0000000000000028       0x50 build/default/debug/hd44780.o
+ .debug_aranges
+                0x0000000000000078       0x20 build/default/debug/lcdtest.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x112e
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x5f4 C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/ATmega_DFP/2.4.131/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_info    0x00000000000005f4      0x2e2 build/default/debug/lcd.o
+ .debug_info    0x00000000000008d6      0x542 build/default/debug/hd44780.o
+ .debug_info    0x0000000000000e18      0x316 build/default/debug/lcdtest.o
+
+.debug_abbrev   0x0000000000000000      0xaf4
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x5a2 C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/ATmega_DFP/2.4.131/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_abbrev  0x00000000000005a2      0x176 build/default/debug/lcd.o
+ .debug_abbrev  0x0000000000000718      0x1fe build/default/debug/hd44780.o
+ .debug_abbrev  0x0000000000000916      0x1de build/default/debug/lcdtest.o
+
+.debug_line     0x0000000000000000      0x801
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x134 C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/ATmega_DFP/2.4.131/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_line    0x0000000000000134      0x15a build/default/debug/lcd.o
+ .debug_line    0x000000000000028e      0x317 build/default/debug/hd44780.o
+ .debug_line    0x00000000000005a5      0x25c build/default/debug/lcdtest.o
+
+.debug_frame    0x0000000000000000      0x114
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x3c build/default/debug/lcd.o
+ .debug_frame   0x000000000000003c       0x9c build/default/debug/hd44780.o
+ .debug_frame   0x00000000000000d8       0x3c build/default/debug/lcdtest.o
+
+.debug_str      0x0000000000000000      0x506
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x208 C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/ATmega_DFP/2.4.131/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_str     0x0000000000000208      0x1bd build/default/debug/lcd.o
+                                        0x1f6 (size before relaxing)
+ .debug_str     0x00000000000003c5       0xca build/default/debug/hd44780.o
+                                        0x267 (size before relaxing)
+ .debug_str     0x000000000000048f       0x77 build/default/debug/lcdtest.o
+                                        0x267 (size before relaxing)
+
+.debug_loc      0x0000000000000000      0x519
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000       0xbb build/default/debug/lcd.o
+ .debug_loc     0x00000000000000bb      0x35b build/default/debug/hd44780.o
+ .debug_loc     0x0000000000000416      0x103 build/default/debug/lcdtest.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000       0x68
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x18 build/default/debug/lcd.o
+ .debug_ranges  0x0000000000000018       0x40 build/default/debug/hd44780.o
+ .debug_ranges  0x0000000000000058       0x10 build/default/debug/lcdtest.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(dist/default/debug/Lab.X.debug.elf elf32-avr)
+LOAD linker stubs
